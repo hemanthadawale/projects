@@ -1,10 +1,17 @@
 # All Projects
 List of all Projects and their Descriptions
 
+### Netscribes Data & Insights Pvt Ltd
+|Sr. No.|	Project/Task|	Description| Technologies|
+|-------|-------------|------------|-------------|
+|1|	NLP Analytics |1.1) Group survey analysis end-to-end solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding| Python, Spacy, Scikit-Learn, PowerBI	|
+| |	|1.2) E-commerce review analysis end-to-end solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding| Python, Spacy, Scikit-Learn, PowerBI	|
+
+
 ### Mahindra Integrated Business Solutions
 |Sr. No.|	Project/Task|	Description| Technologies|
 |-------|-------------|------------|-------------|
-|1|	Athena|1.1)	Analytics Chatbot based on DialogFlow, NodeJs and Python capable of answering complex questions (Text,Tables and Charts)|	NodeJs, Python GroupBys, DialogFlow - remaining|
+|1|	Athena|1.1)	Analytics Chatbot based on DialogFlow, NodeJs and Python capable of answering complex questions (Text,Tables and Charts)|	NodeJs, Python GroupBys, DialogFlow|
 |	|	|1.2) Conversation History Dashboard to view, analyze, filter, comment action items and download csv.|	Flask, MS SQL Server, DB CRUD Operations, HTML, CSS, Javascript|
 |2|	NewsApp| 2.1) Multiple Crawlers for scraping multiple news sites, cleaning data, summarizing and inserting in DB.|	Scrapy, MongoDb, extracting data from APIs/Javascripts|
 | |	|2.2) A Multipage WebApp to View, Edit, Download News in Template. Features: [ Recommendations, Sorting and  Filtering by Date/Keywords/Countries/Sources, Adding/Removing keywords, List view, Drag & Drop for bucketing, Download Article in Defined Template]|	Django, Mongo DB, DB CRUD Operations, HTML, CSS, Javascript|
