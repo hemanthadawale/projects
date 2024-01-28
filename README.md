@@ -1,5 +1,4 @@
-# All Projects
-List of all Projects and their Descriptions
+# Consolidated list of projects:
 
 ### Netscribes Data & Insights Pvt Ltd
 |Sr. No.|	Project/Task|	Description| Skills/Tools|
