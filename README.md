@@ -2,7 +2,7 @@
 List of all Projects and their Descriptions
 
 ### Netscribes Data & Insights Pvt Ltd
-|Sr. No.|	Project/Task|	Description| Technologies|
+|Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
 |1|	NLP Analytics | End-to-end data analysis solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding for E-commerce reviews and surveys| Python, Spacy, Scikit-Learn, PowerBI	|
 |2| Data Engineering | Data Ingestion and Transformation pipeline on Databricks using Delta Lake. Applying custom transformations for analysis/reporting (following a Medallion Architecture) | Python, PySpark, Databricks, AirByte	|
@@ -12,7 +12,7 @@ List of all Projects and their Descriptions
 
 
 ### Mahindra Integrated Business Solutions
-|Sr. No.|	Project/Task|	Description| Technologies|
+|Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
 |1|	Athena|1.1)	Analytics Chatbot based on DialogFlow, NodeJs and Python capable of answering complex questions (Text,Tables and Charts)|	NodeJs, Python GroupBys, DialogFlow|
 |	|	|1.2) Conversation History Dashboard to view, analyze, filter, comment action items and download csv.|	Flask, MS SQL Server, DB CRUD Operations, HTML, CSS, Javascript|
@@ -25,7 +25,7 @@ List of all Projects and their Descriptions
 <br/>
 
 ### Convergence IT Services
-|Sr. No.|	Project/Task|	Description| Technologies|
+|Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
 |1|	Marksheet OCR|	It automated the document verification process by extracting data from scanned documents and validating it with the scraped data from official government websites. Basically it is combination of an OCR Project and Web Scraping (with captcha verification).| 	AWS Textract, Json, Flask, Regex|
 |2|	Text Summarization|	This was an abstractive summarization algorithm from scrath. It was built by following the tensorflow's NMT approach. |	Tensorflow backend Keras Functional API, tf, Sequence to Sequence models, NLP, Neural Networks, RNN, LSTM, attention model, saving models, word embeddings, vocab, NMT.|
@@ -36,7 +36,7 @@ List of all Projects and their Descriptions
 <br/>
 
 ### Apptroid Technology
-|Sr. No.|	Project/Task|	Description| Technologies|
+|Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
 |1|	Data Cleaning|	Cleaning address data, filtering upto granular level (state/city/town/district)|	Affinity Propagation Clustering, Algolia Places Api, Pandas, Regex|
 |2|	Descriptive Analysis|	Basic Descriptive analysis of client app data.|	Pandas, matplotlib, seaborn, excel|
