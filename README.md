@@ -4,8 +4,11 @@ List of all Projects and their Descriptions
 ### Netscribes Data & Insights Pvt Ltd
 |Sr. No.|	Project/Task|	Description| Technologies|
 |-------|-------------|------------|-------------|
-|1|	NLP Analytics |1.1) Group survey analysis end-to-end solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding| Python, Spacy, Scikit-Learn, PowerBI	|
-| |	|1.2) E-commerce review analysis end-to-end solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding| Python, Spacy, Scikit-Learn, PowerBI	|
+|1|	NLP Analytics | End-to-end data analysis solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding for E-commerce reviews and surveys| Python, Spacy, Scikit-Learn, PowerBI	|
+|2| Data Engineering | Data Ingestion and Transformation pipeline on Databricks using Delta Lake. Applying custom transformations for analysis/reporting (following a Medallion Architecture) | Python, PySpark, Databricks, AirByte	|
+|3| Audio Video Analytics | Advanced video and audio analytics for validating influencer promotions using Computer Vision Object Detection and transcription models. Optimized image processing pipeline implementation using PySpark | Databricks, PySpark, Delta Lake, Detecto (CV model), OpenAi Whisper |
+|4| PDF Image analysis and Information retrieval | Extraction of Graph Images and text from PDF, detecting graphs/plots and analyzing detected information, performing NER on the textual data, API integration with an internal workflow tool, facilitating complete automation  | Object Detection Model, Spacy NER, Python, NSWorkflow, Fastapi, AWS Textract |
+|5| Lead Conversion & Renewal Engagement POC | Analysing data sources, shortlisting sources w.r.t. use cases, data transformation/pre-processing, data modeling, EDA, Feature selection and engineering, correlation testing. | Databricks, Delta Lake, SQL, Python |  
 
 
 ### Mahindra Integrated Business Solutions
