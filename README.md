@@ -3,20 +3,22 @@
 ### Netscribes Data & Insights Pvt Ltd
 |Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
-|1|	NLP Analytics | End-to-end data analysis solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding for E-commerce reviews and surveys| Python, Spacy, Scikit-Learn, PowerBI	|
-|2| Data Engineering | Data Ingestion and Transformation pipeline on Databricks using Delta Lake. Applying custom transformations for analysis/reporting (following a Medallion Architecture) | Python, PySpark, Databricks, AirByte	|
-|3| Audio Video Analytics | Advanced video and audio analytics for validating influencer promotions using Computer Vision Object Detection and transcription models. Optimized image processing pipeline implementation using PySpark | Databricks, PySpark, Delta Lake, Detecto (CV model), OpenAi Whisper |
-|4| PDF Image analysis and Information retrieval | Extraction of Graph Images and text from PDF, detecting graphs/plots and analyzing detected information, performing NER on the textual data, API integration with an internal workflow tool, facilitating complete automation  | Object Detection Model, Spacy NER, Python, NSWorkflow, Fastapi, AWS Textract |
-|5| Lead Conversion & Renewal Engagement POC | Analysing data sources, shortlisting sources w.r.t. use cases, data transformation/pre-processing, data modeling, EDA, Feature selection and engineering, correlation testing. | Databricks, Delta Lake, SQL, Python |  
+|1| Image & Video Editing Product| Led an end to end product development from ideation & development to deployment & scaling. Product focuses on Bulk Image and Video editing solutions including in-house as well as latest GenAI solutions| Python, FastAPI, Kafka, MySQL, AWS, AI/ML/GenAI models, OpenAI, Gemini, HuggingFace |
+|2|	GenAI Automations | Multiple automations such as - Image analysis, Ecommerce specific attribute extraction, product matching, product taxonomy tagging, Catalog enrichments | Python, Spacy, Scikit-Learn, Tensorflow, OpenAI, Embeddings	|
+|3| Data Engineering | Data Ingestion and Transformation pipeline on Databricks using Delta Lake. Applying custom transformations for analysis/reporting (following a Medallion Architecture) | Python, PySpark, Databricks, AirByte	|
+|4| Audio Video Analytics | Advanced video and audio analytics for validating influencer promotions using Computer Vision Object Detection and transcription models. Optimized image processing pipeline implementation using PySpark | Databricks, PySpark, Delta Lake, Detecto (CV model), OpenAi Whisper |
+|5| PDF Image analysis and Information retrieval | Extraction of Graph Images and text from PDF, detecting graphs/plots and analyzing detected information, performing NER on the textual data, API integration with an internal workflow tool, facilitating complete automation  | Object Detection Model, Spacy NER, Python, NSWorkflow, Fastapi, AWS Textract |
+|6|	NLP Analytics | End-to-end data analysis solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding for E-commerce reviews and surveys| Python, Spacy, Scikit-Learn, PowerBI	|
+|7| Lead Conversion & Renewal Engagement POC | Analysing data sources, shortlisting sources w.r.t. use cases, data transformation/pre-processing, data modeling, EDA, Feature selection and engineering, correlation testing. | Databricks, Delta Lake, SQL, Python |
 
 
 ### Bristlecone - Mahindra Integrated Business Solutions
 |Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
-|1|	Athena - Phase 1|1.1)	Analytics Chatbot based on DialogFlow, NodeJs and Python capable of answering complex questions (Text,Tables and Charts)|	NodeJs, Python GroupBys, DialogFlow|
-|	|	Athena - Phase 2|1.2) Conversation History Dashboard to view, analyze, filter, comment action items and download csv.|	Flask, MS SQL Server, DB CRUD Operations, HTML, CSS, Javascript|
-|2|	NewsApp - Phase 1| 2.1) Multiple Crawlers for scraping multiple news sites, cleaning data, summarizing and inserting in DB.|	Scrapy, MongoDb, extracting data from APIs/Javascripts|
-| |	NewsApp - Phase 2|2.2) A Multipage WebApp to View, Edit, Download News in Template. Features: [ Recommendations, Sorting and  Filtering by Date/Keywords/Countries/Sources, Adding/Removing keywords, List view, Drag & Drop for bucketing, Download Article in Defined Template]|	Django, Mongo DB, DB CRUD Operations, HTML, CSS, Javascript|
+|1|	Athena - Phase 1| Analytics Chatbot based on DialogFlow, NodeJs and Python capable of answering complex questions (Text,Tables and Charts)|	NodeJs, Python GroupBys, DialogFlow|
+|	|	Athena - Phase 2| Conversation History Dashboard to view, analyze, filter, comment action items and download csv.|	Flask, MS SQL Server, DB CRUD Operations, HTML, CSS, Javascript|
+|2|	NewsApp - Phase 1| Multiple Crawlers for scraping multiple news sites, cleaning data, summarizing and inserting in DB.|	Scrapy, MongoDb, extracting data from APIs/Javascripts|
+| |	NewsApp - Phase 2| A Multipage WebApp to View, Edit, Download News in Template. Features: [ Recommendations, Sorting and  Filtering by Date/Keywords/Countries/Sources, Adding/Removing keywords, List view, Drag & Drop for bucketing, Download Article in Defined Template]|	Django, Mongo DB, DB CRUD Operations, HTML, CSS, Javascript|
 |3|	ITM-Skill Validation|	A portal to upload an excel file, convert rows to pages, display stats per page, edit & update/insert data into DB, download updated excel file.|	Flask, MS SQL Server, DB CRUD Operations, HTML, CSS, Javascript|
 |4|	LMS UI|	A Demo UI for displaying courses recommended. To consume LMS Recommendation REST Api and display data.|	Django, HTML, CSS|
 |5|	Small Utilities|	Many small utilities and APIs as ad-hoc support for different applications like authentication/authorization, rule based chatbot, bot UI, consuming APIs, Data transformation pipelines, etc.|	Python, Fastapi, MS SQL Server, Flask, etc.|
