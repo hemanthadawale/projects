@@ -3,7 +3,7 @@
 ### Netscribes Data & Insights Pvt Ltd
 |Sr. No.|	Project/Task|	Description| Skills/Tools|
 |-------|-------------|------------|-------------|
-|1| Image & Video Editing Product| Led an end to end product development from ideation & development to deployment & scaling. Product focuses on Bulk Image and Video editing solutions including in-house as well as latest GenAI solutions| Python, FastAPI, Kafka, MySQL, AWS, AI/ML/GenAI models, OpenAI, Gemini, HuggingFace |
+|1| Product - Image & Video Editing Platform | Led an end to end product development from ideation & development to deployment & scaling. Product focuses on Bulk Image and Video editing solutions including in-house as well as latest GenAI solutions | Python, FastAPI, Kafka, MySQL, AWS, AI/ML/GenAI models, OpenAI, Gemini, HuggingFace |
 |2|	GenAI Automations | Multiple automations such as - Image analysis, Ecommerce specific attribute extraction, product matching, product taxonomy tagging, Catalog enrichments | Python, Spacy, Scikit-Learn, Tensorflow, OpenAI, Embeddings	|
 |3| Data Engineering | Data Ingestion and Transformation pipeline on Databricks using Delta Lake. Applying custom transformations for analysis/reporting (following a Medallion Architecture) | Python, PySpark, Databricks, AirByte	|
 |4| Audio Video Analytics | Advanced video and audio analytics for validating influencer promotions using Computer Vision Object Detection and transcription models. Optimized image processing pipeline implementation using PySpark | Databricks, PySpark, Delta Lake, Detecto (CV model), OpenAi Whisper |
