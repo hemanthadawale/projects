@@ -9,9 +9,9 @@
 |4| Audio Video Analytics | Advanced video and audio analytics for validating influencer promotions using Computer Vision Object Detection and transcription models. Optimized image processing pipeline implementation using PySpark | Databricks, PySpark, Delta Lake, Detecto (CV model), OpenAi Whisper |
 |5| FAQ Chatbot | Built a scalable FAQ chatbot for a client more than 50k user base. Integrated auto retrain, auto email, Agentic AI workflow. No-Code customizable agent actions. | Python, FastAPI, Vector Storage, ChromaDb, Embeddings, NLP |
 |6| Recommendation System | Built a custom 'Project' Recommendation system for Client's Volunteers (more than 50k users). RRecommendation based on Past applications, wishlists, skill set, interests, preferences, location and department. | Python, FastAPI, Vector Storage, ChromaDb, Embeddings, NLP |
-|5| PDF Image analysis and Information retrieval | Extraction of Graph Images and text from PDF, detecting graphs/plots and analyzing detected information, performing NER on the textual data, API integration with an internal workflow tool, facilitating complete automation  | Object Detection Model, Spacy NER, Python, NSWorkflow, Fastapi, AWS Textract |
-|6|	NLP Analytics | End-to-end data analysis solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding for E-commerce reviews and surveys| Python, Spacy, Scikit-Learn, PowerBI	|
-|7| Lead Conversion & Renewal Engagement POC | Analysing data sources, shortlisting sources w.r.t. use cases, data transformation/pre-processing, data modeling, EDA, Feature selection and engineering, correlation testing. | Databricks, Delta Lake, SQL, Python |
+|7| PDF Image analysis and Information retrieval | Extraction of Graph Images and text from PDF, detecting graphs/plots and analyzing detected information, performing NER on the textual data, API integration with an internal workflow tool, facilitating complete automation  | Object Detection Model, Spacy NER, Python, NSWorkflow, Fastapi, AWS Textract |
+|8|	NLP Analytics | End-to-end data analysis solution with NER, Topic Modelling, Sentiment Analysis, and Dashboarding for E-commerce reviews and surveys| Python, Spacy, Scikit-Learn, PowerBI	|
+|9| Lead Conversion & Renewal Engagement POC | Analysing data sources, shortlisting sources w.r.t. use cases, data transformation/pre-processing, data modeling, EDA, Feature selection and engineering, correlation testing. | Databricks, Delta Lake, SQL, Python |
 
 
 ### Bristlecone - Mahindra Integrated Business Solutions
